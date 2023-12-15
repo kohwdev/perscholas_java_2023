@@ -123,9 +123,27 @@ public class OperatorsJava {
         System.out.println(h);
         System.out.println(i);
 
-        for (int n = 0; n < 100; ++n) {
+        //Logical not operator: reverses true/false:
+        boolean condition = true;
+        System.out.println("Value of !condition " + !condition);
 
+        //Ternary Operator:shorthand version of if-else (true false) statement
+        //Three operands - condition ? true expression : false expression
+
+        int age = 18;
+        String result1;
+        if (age < 18) {
+            result1 = "You are too young to vote";
+        } else {
+            result1 = "You are old enough to vote";
         }
+
+        //using ternary operator:
+        result1 = age < 18 ? "You are too young to vote" : "You are old enough to vote";
+        System.out.println(result1);
+
+        int p=5,q=2, z;
+        z=p/q;
 
 
     }
