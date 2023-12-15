@@ -1,4 +1,4 @@
-package module303;
+package module303.core_java_operators;
 
 public class BitwiseOperatorsDemo {
     public static void main(String[] args) {
