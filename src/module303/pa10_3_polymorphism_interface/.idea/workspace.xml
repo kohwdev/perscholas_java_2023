@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c9eb741-dc85-495d-be24-e472e5d8e6b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../hackerrank/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hackerrank/FunWithAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hackerrank/JavaList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../hackerrank/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BoundedTypesRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElephantItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericClassRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericMethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GenericsClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MathBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OverloadingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/AbstractRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/AbstractStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../abstraction/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist_and_methods/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../character_stream/ReaderClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/ArrayListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/HashMapIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/HashSetEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/LinkedListEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections_framework/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception_handling/ExceptionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception_handling/MultipleExceptionsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception_handling/NestedTryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exception_handling/throwsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fileio/NIOExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional_programming/Greetings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional_programming/GreetingsFunctionalImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functional_programming/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic_method_and_class/DemoClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic_method_and_class/GMultipleDatatype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic_method_and_class/MyRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generic_method_and_class/generic_method_and_class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interfaces/College.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_string_methods/Contains.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_string_methods/IndexOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_string_methods/ReplaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_string_methods/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java_string_methods/java_string_methods.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loops/ForloopEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_example/MatriculatedStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../object_example/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AdultUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KidUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryInterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading_string_console/ReadingStringFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typecasting/Prac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Welcome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Welcome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance_demo/TestPeople.java" beforeDir="false" afterPath="$PROJECT_DIR$/../inheritance_demo/TestPeople.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object_example/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object_example/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../object_example/StudentDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../object_example/StudentDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../polymorphism_inheritance_overriding_object_type_casting/myRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../polymorphism_inheritance_overriding_object_type_casting/MyRunner.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bQz2Lxh9YUAvrJL4uJdOORoMAF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/woonkoh/IdeaProjects/Java_Class_121123/src/module303/pa10_3_polymorphism_interface",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-fd6de256fdba-JavaScript-IU-241.8102.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c9eb741-dc85-495d-be24-e472e5d8e6b6" name="Changes" comment="" />
+      <created>1706161882870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706161882870</updated>
+      <workItem from="1706161883974" duration="51000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,4 +1,4 @@
-package module303.inheritance_demo;
+package module303.inheritance_glab;
 
 public class Hospital {
     public static void main(String[] args) {

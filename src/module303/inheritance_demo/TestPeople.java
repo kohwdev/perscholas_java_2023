@@ -9,6 +9,7 @@ public class TestPeople {
         jimmy = new Boy();
         betty = new Girl("Betty");
 
+        //Downcasting:
         // Boy b = new Person(); // Throw error
         // Girl g = new Person(); // Throw error
 

@@ -1,6 +1,7 @@
 package module303.object_example;
 
 public class Student {
+    protected int protectedDemo;
     //Attributes/Field: variables that hold things about the student
     private String firstName;
     private String middleName;
@@ -117,9 +118,13 @@ public class Student {
     //Encapsulation:
     public boolean validAge(int age) {
         boolean isValid = true;
-        if (age < 0 || age > 115) {
+        if (age < 0 || age > 125) {
             isValid = false;
         }
         return isValid;
     }
+
+    public String toString(){ //JVM
+        return "My name is: " + firstName;
+    };
 }

@@ -1,4 +1,4 @@
-package module303.inheritance_demo;
+package module303.inheritance_glab;
 
 public class Surgeon extends Doctor {
     void Surgeon_Details() {
